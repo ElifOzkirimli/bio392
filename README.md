@@ -1,4 +1,5 @@
 # Bio392
+Effect of Variation on Protein Structure 
 All activity in the cell is carried out by proteins through their interactions with each other, with metabolites, and with substrates. Many diseases states are implicated with changes in the protein function or errors in these interactions. Therefore, linking sequence changes due to mutations to changes in protein structure and dynamics provides important clues on the effect of variations on disease states. Genetic variation at the sequence level caused by mutations lead to premature termination due to mutation to a stop codon, a synonymous mutation with no effect at the protein level, or a nonsynonomous mutation to another amino acid, which may lead to changes in protein stability, loss of catalytic function or misfolding errors depending on the location of the mutation within the sequence.
 
 Predicting the effect of the mutation on the protein structure and function is a difficult task. Some key questions one must answer are:
