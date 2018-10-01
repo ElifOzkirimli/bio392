@@ -1,29 +1,25 @@
 # Protein Structure Analysis Activity
 
 Download the following papers
-
-Bhattacharya R, Rose PW, Burley SK, Prlić A (2017) Impact of genetic variation on three dimensional structure and function of proteins. PLOS ONE 12(3): e0171355. https://doi.org/10.1371/journal.pone.0171355
-(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171355)
-
-Zehir, A., Benayed, R., Shah, R. H., Syed, A., Middha, S., Kim, H. R., et al. (2017). Mutational landscape of metastatic cancer revealed from prospective clinical sequencing of 10,000 patients. Nature Medicine, 23(6), 703–713. http://doi.org/10.1038/nm.4333
-
+1.	Bhattacharya R, Rose PW, Burley SK, Prlić A (2017) Impact of genetic variation on three dimensional structure and function of proteins. PLOS ONE 12(3): e0171355. https://doi.org/10.1371/journal.pone.0171355
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171355
+2.	Zehir, A., Benayed, R., Shah, R. H., Syed, A., Middha, S., Kim, H. R., et al. (2017). Mutational landscape of metastatic cancer revealed from prospective clinical sequencing of 10,000 patients. Nature Medicine, 23(6), 703–713. http://doi.org/10.1038/nm.4333
 Quickly read through the papers and answer the following questions about the papers.
-1. What is the biological question?
-2. What is the method?
-3. What significant scientific contribution does the paper make?
-
+1.	What is the biological question?
+2.	What is the method?
+3.	What significant scientific contribution does the paper make?
 We will go over these papers in more detail soon.
 
-* Go through the papers and identify one protein whose mutation (remember we focus on missense mutations) is associated with a disease state. 
-* Go to the PDB and search for the protein using its name.
-* Give a brief summary of the available information in the PDB:
-	How many entries are there for this protein?
-	Which method(s) were used in characterization of the structure?
-* For the most recent entry with a publication record:
-	What is the structure determination method?
-	What is the Uniprot ID?
-	How many chains does it have?
-	What is the sequence length?
-	Which ligands (if any) are present?
-	Examine the 3D structure using 3D view. Color by chain. 
-	Play with all of the options and prepare a structure figure. 
+Go through the papers and identify one protein whose mutation (remember we focus on missense mutations) is associated with a disease state. 
+Go to the PDB and search for the protein using its name.
+Give a brief summary of the available information in the PDB:
+•	How many entries are there for this protein?
+•	Which method(s) were used in characterization of the structure?
+For the most recent entry with a publication record:
+•	What is the structure determination method?
+•	What is the Uniprot ID?
+•	How many chains does it have?
+•	What is the sequence length?
+•	Which ligands (if any) are present?
+•	Examine the 3D structure using 3D view. Color by chain. 
+•	Play with all of the options and prepare a structure figure. 
